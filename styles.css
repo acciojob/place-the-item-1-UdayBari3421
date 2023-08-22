@@ -1,2 +1,18 @@
-
+.fl{
+	flex-wrap:wrap;
+	width:100%;
+	height:100%;
+	display:flex;
+	flex-wrap:wrap;
+	postion:space-between;
+}
+.blue{
+	background-color:blue;
+}
+.green{
+	background-color:green;
+}
+.red{
+	background-color:red;
+}
 /* Your CSS Code here. */
